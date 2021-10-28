@@ -1674,7 +1674,7 @@ ol {
 	font-size: 24px;
 }
 
-/*.contact-form {
+.contact-form {
 	padding-top: 10px;
 }
 
@@ -1707,7 +1707,7 @@ ol {
 
 .contact-form ::placeholder {
 	font-style: italic;
-}*/
+}
 
 .map-area {
 	height: 685px;
@@ -1721,8 +1721,7 @@ ol {
 .refer-earn img{
 	width: 50%;
 	height: 50%;
-	float: right;
-	margin-top: -100px;
+	margin: 0 0 0 100px;
 }
 
 /*----------------------------------------*/
